@@ -1,0 +1,2 @@
+------------------------------------ Registros del CRON JOB ------------------------------------ 
+Se modificaron 2 registro(s) el dia [2021-09-25 20:39] 

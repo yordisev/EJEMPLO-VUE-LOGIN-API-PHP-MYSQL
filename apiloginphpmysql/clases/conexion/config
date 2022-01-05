@@ -1,0 +1,9 @@
+{
+    "conexion":{
+        "server" : "localhost",
+        "user"  : "root",
+        "password" : "",
+        "database" : "db_api_php_vue",
+        "port" : "3306"
+    }
+}
